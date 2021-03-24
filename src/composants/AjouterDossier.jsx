@@ -47,6 +47,7 @@ export default function AjouterDossier({ouvert, setOuvert, gererAjout}) {
             triangle="hide" 
             onChangeComplete={(couleur, e) => setCouleur(couleur.hex)}
             color={couleur}
+            colors={['#FCB900', '#7BDCB5', '#8ED1FC', '#ABB8C3', '#EB144C', '#F78DA7']}
           />
         </DialogContent>
         <DialogActions>
