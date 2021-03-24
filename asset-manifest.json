@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/monicaleonard/ex4-signets.git/static/css/main.60068f6e.chunk.css",
-    "main.js": "/monicaleonard/ex4-signets.git/static/js/main.ad997230.chunk.js",
-    "main.js.map": "/monicaleonard/ex4-signets.git/static/js/main.ad997230.chunk.js.map",
-    "runtime-main.js": "/monicaleonard/ex4-signets.git/static/js/runtime-main.a01946c6.js",
-    "runtime-main.js.map": "/monicaleonard/ex4-signets.git/static/js/runtime-main.a01946c6.js.map",
-    "static/css/2.b39b49d3.chunk.css": "/monicaleonard/ex4-signets.git/static/css/2.b39b49d3.chunk.css",
-    "static/js/2.bb2e82f4.chunk.js": "/monicaleonard/ex4-signets.git/static/js/2.bb2e82f4.chunk.js",
-    "static/js/2.bb2e82f4.chunk.js.map": "/monicaleonard/ex4-signets.git/static/js/2.bb2e82f4.chunk.js.map",
-    "index.html": "/monicaleonard/ex4-signets.git/index.html",
-    "static/css/2.b39b49d3.chunk.css.map": "/monicaleonard/ex4-signets.git/static/css/2.b39b49d3.chunk.css.map",
-    "static/css/main.60068f6e.chunk.css.map": "/monicaleonard/ex4-signets.git/static/css/main.60068f6e.chunk.css.map",
-    "static/js/2.bb2e82f4.chunk.js.LICENSE.txt": "/monicaleonard/ex4-signets.git/static/js/2.bb2e82f4.chunk.js.LICENSE.txt",
-    "static/media/couverture.2dc9ece9.webp": "/monicaleonard/ex4-signets.git/static/media/couverture.2dc9ece9.webp"
+    "main.css": "/github.io/ex4-signets/static/css/main.60068f6e.chunk.css",
+    "main.js": "/github.io/ex4-signets/static/js/main.ad997230.chunk.js",
+    "main.js.map": "/github.io/ex4-signets/static/js/main.ad997230.chunk.js.map",
+    "runtime-main.js": "/github.io/ex4-signets/static/js/runtime-main.cb3a7f08.js",
+    "runtime-main.js.map": "/github.io/ex4-signets/static/js/runtime-main.cb3a7f08.js.map",
+    "static/css/2.b39b49d3.chunk.css": "/github.io/ex4-signets/static/css/2.b39b49d3.chunk.css",
+    "static/js/2.d41546c7.chunk.js": "/github.io/ex4-signets/static/js/2.d41546c7.chunk.js",
+    "static/js/2.d41546c7.chunk.js.map": "/github.io/ex4-signets/static/js/2.d41546c7.chunk.js.map",
+    "index.html": "/github.io/ex4-signets/index.html",
+    "static/css/2.b39b49d3.chunk.css.map": "/github.io/ex4-signets/static/css/2.b39b49d3.chunk.css.map",
+    "static/css/main.60068f6e.chunk.css.map": "/github.io/ex4-signets/static/css/main.60068f6e.chunk.css.map",
+    "static/js/2.d41546c7.chunk.js.LICENSE.txt": "/github.io/ex4-signets/static/js/2.d41546c7.chunk.js.LICENSE.txt",
+    "static/media/couverture.2dc9ece9.webp": "/github.io/ex4-signets/static/media/couverture.2dc9ece9.webp"
   },
   "entrypoints": [
-    "static/js/runtime-main.a01946c6.js",
+    "static/js/runtime-main.cb3a7f08.js",
     "static/css/2.b39b49d3.chunk.css",
-    "static/js/2.bb2e82f4.chunk.js",
+    "static/js/2.d41546c7.chunk.js",
     "static/css/main.60068f6e.chunk.css",
     "static/js/main.ad997230.chunk.js"
   ]
